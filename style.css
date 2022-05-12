@@ -1,0 +1,59 @@
+.btn-outline-success {
+    color:black;
+    border-color: black;
+}
+
+.btn-outline-success:hover{
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.white-color{
+    color: white;
+}
+
+.nav-padding{
+    padding: 8px;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-size{
+    max-width: 100%;
+    height: 700px;
+    display: block;
+}
+
+.main-igm-size{
+    object-fit: cover;
+}
+
+footer {
+    background-color: black;
+}
+
+.first-line {
+    color: white;
+    border-bottom: 1px solid #392d23;
+}
+
+.second-line {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
+
+.second-line-margin{
+    margin-right: 7px;
+}
+
+.second-line a{
+    color: white;
+    text-decoration: none;
+}
+
